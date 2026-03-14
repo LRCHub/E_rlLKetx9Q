@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "パシオン",
+  "base_artist": "Buzy",
+  "createdAt": "2026-03-14T11:54:32.744984Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "パシオン",
+      "artist": "Buzy",
+      "has_synced": true,
+      "path": "select/01_パシオン_Buzy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "フルール・ドゥ・ラ・パシオン",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/02_フルール・ドゥ・ラ・パシオン_MISIA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "パシオン",
+      "artist": "Buzy",
+      "has_synced": false,
+      "path": "select/pl_01_パシオン_Buzy.txt"
+    }
+  ]
+}
